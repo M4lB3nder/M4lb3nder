@@ -12,4 +12,4 @@
 
 ## 📬 Get in Touch 
 - 💼 LinkedIn: [Youssef Madkour](https://www.linkedin.com/in/m4lb3nder/)  
-- 🐙 Blog: [M4lB3nder](https://medium.com/@m4lb3nder)
+- 🐙 Blog: [M4lB3nder](https://m4lb3nder.github.io/)
